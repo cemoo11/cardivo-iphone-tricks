@@ -1,0 +1,63 @@
+name: Daily TikTok posts
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # 08:00 UTC = 3-4 AM US Eastern, before the first slot
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "US Eastern date (YYYY-MM-DD), default today"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-posts
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch Inter font (SIL OFL)
+        run: |
+          curl -sSL -o /tmp/inter.zip https://github.com/rsms/inter/releases/download/v4.1/Inter-4.1.zip
+          mkdir -p /tmp/inter fonts
+          unzip -q /tmp/inter.zip -d /tmp/inter
+          for w in ExtraBold Bold SemiBold Medium Regular; do
+            cp "$(find /tmp/inter -name "Inter-$w.otf" | head -1)" fonts/
+          done
+
+      - name: Generate posts
+        run: python generate.py ${{ inputs.date && format('--date {0}', inputs.date) || '' }}
+
+      - name: Commit posts
+        run: |
+          git config user.name "cardivo-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add posts state
+          git diff --cached --quiet || git commit -m "Add posts for $(date -u +%F)"
+          git push
+
+      - name: Schedule on Buffer
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          BUFFER_CHANNEL_ID: ${{ vars.BUFFER_CHANNEL_ID }}
+        run: python schedule_buffer.py ${{ inputs.date && format('--date {0}', inputs.date) || '' }}
+
+      - name: Save Buffer post ids
+        if: always()
+        run: |
+          git add posts
+          git diff --cached --quiet || git commit -m "Record Buffer post ids"
+          git push
