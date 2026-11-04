@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "date": "2026-11-05",
+      "post": 1,
+      "theme": "productivity",
+      "tips": [
+        "shortcuts-automation",
+        "unit-convert",
+        "offline-maps",
+        "focus-modes",
+        "hide-distracting"
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "post": 2,
+      "theme": "camera",
+      "tips": [
+        "visual-lookup",
+        "quicktake",
+        "preserve-settings",
+        "measure",
+        "burst"
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "post": 3,
+      "theme": "settings",
+      "tips": [
+        "reduce-white-point",
+        "drag-apps",
+        "tap-top",
+        "lock-screen"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "post": 1,
+      "theme": "messages",
+      "tips": [
+        "send-later",
+        "namedrop",
+        "undo-send",
+        "check-in",
+        "recently-deleted"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "post": 2,
+      "theme": "accessibility",
+      "tips": [
+        "bold-text",
+        "voice-isolation",
+        "sound-recognition",
+        "eye-tracking"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "post": 3,
+      "theme": "privacy",
+      "tips": [
+        "precise-location",
+        "hide-my-email",
+        "privacy-report",
+        "silence-callers",
+        "hidden-album"
+      ]
+    }
+  ]
+}
