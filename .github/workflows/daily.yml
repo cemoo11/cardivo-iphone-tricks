@@ -51,7 +51,7 @@ jobs:
 
       - name: Schedule on Buffer
         env:
-          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY || secrets.TIKTOK }}
           BUFFER_CHANNEL_ID: ${{ vars.BUFFER_CHANNEL_ID }}
         run: python schedule_buffer.py ${{ inputs.date && format('--date {0}', inputs.date) || '' }}
 
