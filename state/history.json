@@ -69,6 +69,41 @@
         "silence-callers",
         "hidden-album"
       ]
+    },
+    {
+      "date": "2026-11-07",
+      "post": 1,
+      "theme": "battery",
+      "tips": [
+        "auto-lock",
+        "bg-refresh",
+        "charge-limit",
+        "low-power",
+        "battery-percent"
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "post": 2,
+      "theme": "camera",
+      "tips": [
+        "burst",
+        "live-text",
+        "preserve-settings",
+        "magnifier",
+        "grid-level"
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "post": 3,
+      "theme": "health",
+      "tips": [
+        "motion-cues",
+        "night-shift",
+        "background-sounds",
+        "screen-distance"
+      ]
     }
   ]
 }
