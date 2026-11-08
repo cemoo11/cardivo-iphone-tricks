@@ -36,12 +36,13 @@ SLOTS = {
 MAX_USES, WINDOW_DAYS = 3, 14
 TIP_COUNT_WEIGHTS = {1: 1, 2: 3, 3: 5, 4: 4, 5: 3}  # slayt = kapak + ipuçları + Cardivo => 3-7
 
+# (kapak başlığı, alt yazı, TikTok başlığı)
 COVERS = [
-    ("gizli iPhone {label}özelliği", "Kaydır → ve kaydet"),
-    ("iPhone'da kimsenin bilmediği {label}özellik", "Kaydır → sonuncusu çok iyi"),
-    ("Apple'ın söylemediği iPhone {label}taktiği", "Kaydır → hemen dene"),
-    ("iPhone'unda hemen açman gereken {label}özellik", "Kaydır → 2 dakikanı alır"),
-    ("iPhone {label}hilesi: herkes bilmeli", "Kaydır → ve arkadaşına gönder"),
+    ("gizli iPhone {label}özelliği", "Kaydır → ve kaydet", "Gizli iPhone {label}özellikleri 🤫"),
+    ("iPhone'da kimsenin bilmediği {label}özellik", "Kaydır → sonuncusu çok iyi", "iPhone'da kimsenin bilmediği {label}özellikler 👀"),
+    ("Apple'ın söylemediği iPhone {label}taktiği", "Kaydır → hemen dene", "Apple'ın söylemediği iPhone {label}taktikleri 🤫"),
+    ("iPhone'unda hemen açman gereken {label}özellik", "Kaydır → 2 dakikanı alır", "iPhone'unda hemen açman gereken {label}özellikler ⚙️"),
+    ("iPhone {label}hilesi: herkes bilmeli", "Kaydır → ve arkadaşına gönder", "Herkesin bilmesi gereken iPhone {label}hileleri 🔥"),
 ]
 CTA_SLIDES = [
     ("SON TAKTİK", "Nabzını sadece kamerayla ölç", "Parmağını arka kameraya koy, Cardivo nabzını saniyeler içinde ölçsün. Saat gerekmez."),
@@ -75,8 +76,8 @@ def pick(rng, history, day, used_today, used_themes):
 def make_post(rng, day, n, slot, theme, tips, part_no, out: Path):
     label = "" if theme == "mixed" else THEMES_TR[theme]
     k = len(tips)
-    headline, sub = rng.choice(COVERS)
-    headline = headline.format(label=label)
+    headline, sub, tt = rng.choice(COVERS)
+    headline, tt = headline.format(label=label), tt.format(label=label)
     total = k + 2
     seed0 = int(day.strftime("%Y%m%d")) * 10 + n * 1000 + rng.randint(0, 999)
     out.mkdir(parents=True, exist_ok=True)
@@ -93,7 +94,7 @@ def make_post(rng, day, n, slot, theme, tips, part_no, out: Path):
     rel = out.relative_to(ROOT).as_posix()
     meta = {
         "date": day.isoformat(), "post": n, "theme": theme, "tips": [t[0] for t in tips],
-        "slides": len(names), "title": f"{k} {headline}"[:90], "caption": caption,
+        "slides": len(names), "title": tt[:90], "caption": caption,
         "publish_local": local.strftime("%Y-%m-%dT%H:%M:%S"), "timezone": "Europe/Istanbul",
         "images": [f"{RAW_BASE}/{rel}/{x}" for x in names], "metricool_post_id": None,
     }
