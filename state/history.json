@@ -104,6 +104,74 @@
         "background-sounds",
         "screen-distance"
       ]
+    },
+    {
+      "date": "2026-11-08",
+      "post": 1,
+      "theme": "health",
+      "tips": [
+        "night-shift",
+        "motion-cues",
+        "sleep-schedule",
+        "walking-steadiness",
+        "screen-distance"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "post": 2,
+      "theme": "battery",
+      "tips": [
+        "low-power",
+        "charge-limit",
+        "battery-health",
+        "battery-percent"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "post": 3,
+      "theme": "settings",
+      "tips": [
+        "lock-screen",
+        "tap-top",
+        "home-search"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "post": 1,
+      "theme": "productivity",
+      "tips": [
+        "offline-maps",
+        "unit-convert",
+        "live-voicemail",
+        "universal-clipboard",
+        "hide-distracting"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "post": 2,
+      "theme": "camera",
+      "tips": [
+        "visual-lookup",
+        "volume-shutter",
+        "measure",
+        "mirror-front",
+        "scan-docs"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "post": 3,
+      "theme": "accessibility",
+      "tips": [
+        "assistive-access",
+        "bold-text",
+        "eye-tracking",
+        "voice-isolation"
+      ]
     }
   ]
 }

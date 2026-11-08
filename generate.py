@@ -141,17 +141,11 @@ def build_post(rng, day, n, slot, theme, tips, part_no, out_dir: Path):
     return meta
 
 
-def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--date", help="US Eastern date (default: today in ET)")
-    ap.add_argument("--force", action="store_true", help="regenerate even if the day exists")
-    args = ap.parse_args()
-    day = date.fromisoformat(args.date) if args.date else datetime.now(ET).date()
-
+def generate_day(day: date, force: bool):
     history = load_history()
     day_dir = ROOT / "posts" / day.isoformat()
     if any(p["date"] == day.isoformat() for p in history["posts"]):
-        if not args.force:
+        if not force:
             print(f"{day} already generated; skipping")
             return
         history["posts"] = [p for p in history["posts"] if p["date"] != day.isoformat()]
@@ -170,6 +164,22 @@ def main():
         print(f"{day} post {n}: {theme}, {meta['slides']} slides, {slot} ET")
 
     HISTORY.write_text(json.dumps(history, indent=2) + "\n")
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--date", help="US Eastern date (default: today and tomorrow in ET)")
+    ap.add_argument("--force", action="store_true", help="regenerate even if the day exists")
+    args = ap.parse_args()
+    if args.date:
+        days = [date.fromisoformat(args.date)]
+    else:
+        # GitHub cron often starts hours late, so always prepare tomorrow too:
+        # tomorrow's early-morning slots get scheduled well in advance.
+        today = datetime.now(ET).date()
+        days = [today, today + timedelta(days=1)]
+    for d in days:
+        generate_day(d, args.force)
 
 
 if __name__ == "__main__":

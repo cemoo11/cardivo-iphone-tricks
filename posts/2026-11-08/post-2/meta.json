@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-08",
+  "post": 2,
+  "theme": "battery",
+  "tips": [
+    "low-power",
+    "charge-limit",
+    "battery-health",
+    "battery-percent"
+  ],
+  "slides": 6,
+  "title": "4 hidden iPhone battery features you're not using",
+  "caption": "POV: you finally learn the hidden iPhone features 😮\nTag a friend who needs this.\n\nA few more iPhone tips:\n• Move many apps at once by tapping them while dragging\n• Convert currency right inside the Calculator\n• Swipe on the Calculator display to delete the last digit\n• Shake your iPhone to undo typing\n• Swap contacts with NameDrop by holding two iPhones together\n\nHow to get Cardivo 📲\n1. Open the App Store on your iPhone\n2. Search \"Cardivo\"\n3. Tap Get — it's free to download\n\n#iphonetips #techhacks #iphonehacks #iphonetricks #lifehacks #hiddenfeatures #cardivo",
+  "slot_et": "2026-11-08T13:00:00-05:00",
+  "due_at_utc": "2026-11-08T18:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-08/post-2/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-08/post-2/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-08/post-2/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-08/post-2/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-08/post-2/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-08/post-2/06.jpg"
+  ],
+  "buffer_post_id": null
+}

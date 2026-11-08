@@ -78,34 +78,34 @@ def main():
     ap.add_argument("--date")
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
-    day = args.date or datetime.now(ET).date().isoformat()
+    day = args.date or "*"  # default: every generated day that still has unscheduled future posts
     key = os.environ.get("BUFFER_API_KEY", "")
     channel = os.environ.get("BUFFER_CHANNEL_ID", "")
     if not args.dry_run and not (key and channel):
         sys.exit("BUFFER_API_KEY and BUFFER_CHANNEL_ID must be set")
 
     failed = False
-    for meta_path in sorted((ROOT / "posts" / day).glob("post-*/meta.json")):
+    for meta_path in sorted(ROOT.glob(f"posts/{day}/post-*/meta.json")):
         meta = json.loads(meta_path.read_text())
         if meta.get("buffer_post_id"):
-            print(f"{meta_path.parent.name}: already scheduled ({meta['buffer_post_id']})")
+            print(f"{meta_path.parent.parent.name}/{meta_path.parent.name}: already scheduled ({meta['buffer_post_id']})")
             continue
         due = datetime.strptime(meta["due_at_utc"], "%Y-%m-%dT%H:%M:%S.000Z").replace(tzinfo=timezone.utc)
         if due < datetime.now(timezone.utc) + timedelta(minutes=10):
-            print(f"{meta_path.parent.name}: slot {meta['slot_et']} already passed; skipping")
+            print(f"{meta_path.parent.parent.name}/{meta_path.parent.name}: slot {meta['slot_et']} already passed; skipping")
             continue
         if args.dry_run:
-            print(f"{meta_path.parent.name}: would schedule {len(meta['images'])} slides at {meta['slot_et']}")
+            print(f"{meta_path.parent.parent.name}/{meta_path.parent.name}: would schedule {len(meta['images'])} slides at {meta['slot_et']}")
             continue
         try:
             for u in meta["images"]:
                 wait_public(u)
             meta["buffer_post_id"] = create_post(meta, channel, key)
             meta_path.write_text(json.dumps(meta, indent=2, ensure_ascii=False) + "\n")
-            print(f"{meta_path.parent.name}: scheduled for {meta['slot_et']} ({meta['buffer_post_id']})")
+            print(f"{meta_path.parent.parent.name}/{meta_path.parent.name}: scheduled for {meta['slot_et']} ({meta['buffer_post_id']})")
         except Exception as e:  # keep going with the other posts
             failed = True
-            print(f"{meta_path.parent.name}: FAILED: {e}", file=sys.stderr)
+            print(f"{meta_path.parent.parent.name}/{meta_path.parent.name}: FAILED: {e}", file=sys.stderr)
     sys.exit(1 if failed else 0)
 
 

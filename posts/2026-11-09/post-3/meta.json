@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-09",
+  "post": 3,
+  "theme": "accessibility",
+  "tips": [
+    "assistive-access",
+    "bold-text",
+    "eye-tracking",
+    "voice-isolation"
+  ],
+  "slides": 6,
+  "title": "4 iPhone accessibility tricks you need to know",
+  "caption": "How to use your iPhone like a pro 😎\nSave this and try them today.\n\nBonus iPhone hacks:\n• Type an equation with = in Notes for instant answers\n• Hold the space bar to turn your keyboard into a trackpad\n• Have Safari read any article out loud\n• Turn on a camera grid and level for straighter photos\n\nGet Cardivo in 3 steps:\n1. Open the App Store on your iPhone\n2. Search \"Cardivo\"\n3. Tap Get — it's free to download\n\n#foryou #appletips #hiddenfeatures #iphonehacks #ios #iphonetips #iphonetricks #cardivo",
+  "slot_et": "2026-11-09T20:00:00-05:00",
+  "due_at_utc": "2026-11-10T01:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-09/post-3/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-09/post-3/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-09/post-3/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-09/post-3/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-09/post-3/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-09/post-3/06.jpg"
+  ],
+  "buffer_post_id": null
+}
