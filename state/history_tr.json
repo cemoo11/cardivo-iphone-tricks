@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "date": "2026-11-09",
+      "post": 1,
+      "theme": "keyboard",
+      "tips": [
+        "haptic-keyboard",
+        "text-replacement",
+        "double-space"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "post": 2,
+      "theme": "privacy",
+      "tips": [
+        "silence-callers",
+        "stolen-device",
+        "safety-check"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "post": 3,
+      "theme": "messages",
+      "tips": [
+        "lift-subject",
+        "duplicates",
+        "namedrop",
+        "send-later"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "post": 1,
+      "theme": "battery",
+      "tips": [
+        "charge-limit",
+        "bg-refresh",
+        "low-power"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "post": 2,
+      "theme": "camera",
+      "tips": [
+        "mirror-front",
+        "burst",
+        "grid-level"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "post": 3,
+      "theme": "accessibility",
+      "tips": [
+        "eye-tracking",
+        "assistive-access"
+      ]
+    }
+  ]
+}

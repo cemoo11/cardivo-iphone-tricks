@@ -143,3 +143,48 @@ def cardivo(seed, label, headline, body, i, n):
     d.text((340, y + 192), "Free on the App Store", font=font("Medium", 44), fill=SOFT)
     _footer(d, i, n)
     return im
+
+
+# --- Büyük sayılı (Türkçe) varyantlar ---------------------------------------
+
+def cover_big(seed, big, headline, sub, i, n):
+    im = background(seed)
+    d = ImageDraw.Draw(im)
+    fo = font("Heavy", 520)
+    top = d.textbbox((0, 0), big, font=fo)[1]
+    d.text((86, 330 - top), big, font=fo, fill=WHITE)
+    y = _block(d, headline, font("Bold", 100), 760, gap=1.12)
+    _block(d, sub, font("Medium", 48), y + 56, SOFT)
+    _footer(d, i, n)
+    return im
+
+
+def tip_big(seed, num, title, body, path, i, n):
+    im = background(seed)
+    d = ImageDraw.Draw(im)
+    fo = font("Heavy", 330)
+    top = d.textbbox((0, 0), f"{num:02d}", font=fo)[1]
+    d.text((90, 300 - top), f"{num:02d}", font=fo, fill=WHITE)
+    y = _block(d, title, font("Bold", 88), 690, gap=1.12)
+    y = _block(d, body, font("Regular", 52), y + 46, gap=1.35)
+    d = _pill(im, y + 64, path)
+    _footer(d, i, n)
+    return im
+
+
+def cardivo_cta_tr(seed, label, headline, body, i, n):
+    im = background(seed)
+    d = ImageDraw.Draw(im)
+    d.text((100, 300), label, font=font("Heavy", 120), fill=WHITE)
+    y = _block(d, headline, font("Bold", 92), 470, gap=1.12)
+    y = _block(d, body, font("Regular", 52), y + 46, gap=1.35)
+    icon = Image.open(ICON).convert("RGBA").resize((200, 200))
+    mask = Image.new("L", (200, 200), 0)
+    ImageDraw.Draw(mask).rounded_rectangle((0, 0, 199, 199), radius=46, fill=255)
+    y += 80
+    im.paste(icon, (100, y), mask)
+    d.text((340, y + 22), "Cardivo", font=font("Bold", 64), fill=WHITE)
+    d.text((340, y + 102), "App Store'da ücretsiz", font=font("Medium", 44), fill=SOFT)
+    d = _pill(im, y + 270, "App Store › \"Cardivo\" ara › Al")
+    _footer(d, i, n)
+    return im
