@@ -59,6 +59,38 @@
         "eye-tracking",
         "assistive-access"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "post": 1,
+      "theme": "messages",
+      "tips": [
+        "undo-send",
+        "namedrop"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "post": 2,
+      "theme": "camera",
+      "tips": [
+        "magnifier",
+        "quicktake",
+        "visual-lookup",
+        "scan-docs",
+        "burst"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "post": 3,
+      "theme": "accessibility",
+      "tips": [
+        "assistive-access",
+        "sound-recognition",
+        "live-listen",
+        "eye-tracking"
+      ]
     }
   ]
 }
