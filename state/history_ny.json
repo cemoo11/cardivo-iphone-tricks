@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "date": "2026-11-09",
+      "post": 1,
+      "theme": "keyboard",
+      "tips": [
+        "double-space",
+        "one-hand-keyboard",
+        "text-replacement",
+        "haptic-keyboard",
+        "trackpad"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "post": 2,
+      "theme": "settings",
+      "tips": [
+        "home-search",
+        "led-flash",
+        "dark-icons",
+        "tap-top",
+        "lock-apps",
+        "back-tap",
+        "app-library"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "post": 3,
+      "theme": "privacy",
+      "tips": [
+        "hide-my-email",
+        "share-wifi",
+        "safety-check",
+        "silence-callers",
+        "hidden-album"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "post": 1,
+      "theme": "messages",
+      "tips": [
+        "lift-subject",
+        "undo-send",
+        "send-later",
+        "namedrop",
+        "duplicates"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "post": 2,
+      "theme": "camera",
+      "tips": [
+        "live-text",
+        "quicktake",
+        "visual-lookup",
+        "scan-docs",
+        "burst",
+        "preserve-settings"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "post": 3,
+      "theme": "accessibility",
+      "tips": [
+        "live-listen",
+        "sound-recognition",
+        "voice-isolation",
+        "eye-tracking",
+        "assistive-access",
+        "bold-text"
+      ]
+    }
+  ]
+}

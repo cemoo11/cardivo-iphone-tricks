@@ -172,6 +172,40 @@
         "eye-tracking",
         "voice-isolation"
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "post": 1,
+      "theme": "camera",
+      "tips": [
+        "magnifier",
+        "volume-shutter",
+        "mirror-front",
+        "grid-level"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "post": 2,
+      "theme": "keyboard",
+      "tips": [
+        "trackpad",
+        "haptic-keyboard",
+        "dot-com",
+        "text-replacement",
+        "three-finger-undo"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "post": 3,
+      "theme": "privacy",
+      "tips": [
+        "safety-check",
+        "precise-location",
+        "stolen-device",
+        "privacy-report"
+      ]
     }
   ]
 }

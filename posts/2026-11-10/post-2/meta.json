@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-10",
+  "account": "main",
+  "post": 2,
+  "theme": "keyboard",
+  "tips": [
+    "trackpad",
+    "haptic-keyboard",
+    "dot-com",
+    "text-replacement",
+    "three-finger-undo"
+  ],
+  "slides": 7,
+  "title": "5 iPhone keyboard hacks nobody told you about",
+  "caption": "iOS tips every iPhone user should know 📲\nSwipe through and save it for later.\n\nExtra tricks to try:\n• Have Safari read any article out loud\n• Download offline maps before a trip\n• Make the camera flash blink for notifications\n• Swipe on the Calculator display to delete the last digit\n\nWant Cardivo? Here's how 👇\n1. Open App Store\n2. Search \"Cardivo app\"\n3. Tap the blue Get button\n\n#iphonetricks #cardivo #iphonetips #techhacks #techtips #foryou #iphone #iphonehacks",
+  "slot_et": "2026-11-10T13:00:00-05:00",
+  "due_at_utc": "2026-11-10T18:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-10/post-2/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-10/post-2/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-10/post-2/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-10/post-2/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-10/post-2/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-10/post-2/06.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-10/post-2/07.jpg"
+  ],
+  "buffer_post_id": null
+}

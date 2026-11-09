@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-10",
+  "account": "ny",
+  "post": 2,
+  "theme": "camera",
+  "tips": [
+    "live-text",
+    "quicktake",
+    "visual-lookup",
+    "scan-docs",
+    "burst",
+    "preserve-settings"
+  ],
+  "slides": 8,
+  "title": "6 camera settings every New Yorker should change today",
+  "caption": "Try these on the train today 🚇\nSend this to your NYC group chat.\n\nExtra tricks to try:\n• Merge duplicate photos to free up storage\n• Swap contacts with NameDrop by holding two iPhones together\n• Convert currency right inside the Calculator\n• Shake your iPhone to undo typing\n• Type an equation with = in Notes for instant answers\n• Turn on a camera grid and level for straighter photos\n\nHow to download Cardivo on iPhone:\n1. Open the App Store\n2. Type \"Cardivo\" in the search bar\n3. Tap Get and open the app\n\n#brooklyn #iphonehacks #iphone17 #iphonesettings #newyorkcity #newyork #iphonetricks #cardivo #iphonetips",
+  "slot_et": "2026-11-10T12:30:00-05:00",
+  "due_at_utc": "2026-11-10T17:30:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-10/ny-post-2/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-10/ny-post-2/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-10/ny-post-2/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-10/ny-post-2/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-10/ny-post-2/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-10/ny-post-2/06.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-10/ny-post-2/07.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-10/ny-post-2/08.jpg"
+  ],
+  "buffer_post_id": null
+}
