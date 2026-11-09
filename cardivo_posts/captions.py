@@ -111,6 +111,35 @@ ROTATING_TAGS = [
     "#fyp", "#foryou", "#learnontiktok",
 ]
 
+# New York account (cemalsatis): same rules, NYC-flavored hooks and local hashtags.
+NY_HOOKS = [
+    "iPhone tricks every New Yorker needs 🗽",
+    "Your subway commute just got better with these iPhone hacks 🚇",
+    "NYC, you've been using your iPhone wrong 😳",
+    "iPhone hacks I use every day in New York 🍎",
+    "Hidden iPhone features for busy New Yorkers ⏱️",
+    "Things your iPhone can do that most New Yorkers don't know 👀",
+    "Try these on the train today 🚇",
+    "iPhone settings every New Yorker should change 🗽",
+    "New York, save this before your next commute 📌",
+    "Living in NYC? Turn these iPhone features on 🏙️",
+    "iPhone tricks for the 5-minute wait at the platform 🚉",
+    "Underrated iPhone features for city life 🌆",
+    "NYC iPhone tips — part {n} 🔥",
+    "The iPhone hacks my New York friends keep asking about 🤭",
+    "Stop scrolling, New York — these iPhone tips are worth it 🛑",
+]
+NY_SUB_HOOKS = [
+    "Save this for your next train ride.",
+    "Send this to your NYC group chat.",
+    "Which one are you turning on first? Tell me below 👇",
+    "Follow for a new iPhone trick every day, straight from New York.",
+    "Tag a New Yorker who needs this.",
+    "Part {n} of our daily NYC iPhone tips series.",
+    "Swipe through before your stop.",
+]
+NY_TAGS = ["#nyc", "#newyork", "#newyorkcity", "#nyctiktok", "#nycliving", "#manhattan", "#brooklyn"]
+
 BANNED_WORDS = [
     "health", "heart", "pulse", "bpm", "medical", "medication", "meds", "sleep",
     "hearing", "fitness", "wellness", "workout", "blood", "doctor", "symptom",
@@ -125,13 +154,17 @@ def _check(text: str) -> None:
             raise ValueError(f"caption contains banned word: {w}")
 
 
-def build_caption(rng: random.Random, part_no: int) -> str:
-    hook = rng.choice(HOOKS).format(n=part_no)
-    sub = rng.choice(SUB_HOOKS).format(n=part_no)
-    tricks = rng.sample(CAPTION_TRICKS, rng.randint(4, 6))
+def build_caption(rng: random.Random, part_no: int, style: str = "us") -> str:
+    ny = style == "ny"
+    hook = rng.choice(NY_HOOKS if ny else HOOKS).format(n=part_no)
+    sub = rng.choice(NY_SUB_HOOKS if ny else SUB_HOOKS).format(n=part_no)
+    tricks = rng.sample(CAPTION_TRICKS, rng.randint(5, 7) if ny else rng.randint(4, 6))
     cta_title = rng.choice(CTA_TITLES)
     steps = rng.choice(CTA_STEPS)
-    tags = CORE_TAGS + rng.sample(ROTATING_TAGS, rng.randint(3, 5)) + ["#cardivo"]
+    if ny:
+        tags = CORE_TAGS + rng.sample(NY_TAGS, 3) + rng.sample(ROTATING_TAGS, 2) + ["#cardivo"]
+    else:
+        tags = CORE_TAGS + rng.sample(ROTATING_TAGS, rng.randint(3, 5)) + ["#cardivo"]
     rng.shuffle(tags)
 
     lines = [hook, sub, "", rng.choice(TRICK_INTROS)]

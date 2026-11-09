@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Schedule a day's generated posts on Buffer (TikTok) via the Buffer GraphQL API.
 
-Env: BUFFER_API_KEY (required), BUFFER_CHANNEL_ID (TikTok channel id).
+Env: BUFFER_API_KEY (required), BUFFER_CHANNEL_ID (main TikTok channel, cardivo.ai).
+The New York account's posts (posts/<date>/ny-post-*) go to BUFFER_CHANNEL_ID_NY, or the
+cemalsatis channel id below when that variable isn't set.
 Usage: python schedule_buffer.py [--date YYYY-MM-DD] [--dry-run]
 Images must already be pushed to the public repo (raw.githubusercontent.com URLs).
 """
@@ -18,6 +20,7 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parent
 API = "https://api.buffer.com"
 ET = ZoneInfo("America/New_York")
+NY_CHANNEL_DEFAULT = "6af1e3ac62b70b94b0d10ce3"  # Buffer TikTok channel "cemalsatis"
 
 
 def gql(query: str, key: str):
@@ -80,12 +83,15 @@ def main():
     args = ap.parse_args()
     day = args.date or "*"  # default: every generated day that still has unscheduled future posts
     key = os.environ.get("BUFFER_API_KEY", "")
-    channel = os.environ.get("BUFFER_CHANNEL_ID", "")
-    if not args.dry_run and not (key and channel):
+    channels = {
+        "main": os.environ.get("BUFFER_CHANNEL_ID", ""),
+        "ny": os.environ.get("BUFFER_CHANNEL_ID_NY") or NY_CHANNEL_DEFAULT,
+    }
+    if not args.dry_run and not (key and channels["main"]):
         sys.exit("BUFFER_API_KEY and BUFFER_CHANNEL_ID must be set")
 
     failed = False
-    for meta_path in sorted(ROOT.glob(f"posts/{day}/post-*/meta.json")):
+    for meta_path in sorted(ROOT.glob(f"posts/{day}/*post-*/meta.json")):
         meta = json.loads(meta_path.read_text())
         if meta.get("buffer_post_id"):
             print(f"{meta_path.parent.parent.name}/{meta_path.parent.name}: already scheduled ({meta['buffer_post_id']})")
@@ -100,7 +106,7 @@ def main():
         try:
             for u in meta["images"]:
                 wait_public(u)
-            meta["buffer_post_id"] = create_post(meta, channel, key)
+            meta["buffer_post_id"] = create_post(meta, channels[meta.get("account", "main")], key)
             meta_path.write_text(json.dumps(meta, indent=2, ensure_ascii=False) + "\n")
             print(f"{meta_path.parent.parent.name}/{meta_path.parent.name}: scheduled for {meta['slot_et']} ({meta['buffer_post_id']})")
         except Exception as e:  # keep going with the other posts
