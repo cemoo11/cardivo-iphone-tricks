@@ -206,6 +206,39 @@
         "stolen-device",
         "privacy-report"
       ]
+    },
+    {
+      "date": "2026-11-11",
+      "post": 1,
+      "theme": "health",
+      "tips": [
+        "background-sounds",
+        "motion-cues",
+        "walking-steadiness",
+        "medications",
+        "screen-distance"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "post": 2,
+      "theme": "keyboard",
+      "tips": [
+        "haptic-keyboard",
+        "three-finger-undo",
+        "calc-delete",
+        "double-space"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "post": 3,
+      "theme": "settings",
+      "tips": [
+        "action-button",
+        "dark-icons",
+        "reduce-white-point"
+      ]
     }
   ]
 }

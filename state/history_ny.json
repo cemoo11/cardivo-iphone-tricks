@@ -75,6 +75,48 @@
         "assistive-access",
         "bold-text"
       ]
+    },
+    {
+      "date": "2026-11-11",
+      "post": 1,
+      "theme": "camera",
+      "tips": [
+        "volume-shutter",
+        "mirror-front",
+        "quicktake",
+        "scan-docs",
+        "magnifier",
+        "grid-level",
+        "measure"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "post": 2,
+      "theme": "messages",
+      "tips": [
+        "duplicates",
+        "lift-subject",
+        "pin-chats",
+        "recently-deleted",
+        "undo-send",
+        "namedrop"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "post": 3,
+      "theme": "productivity",
+      "tips": [
+        "hide-distracting",
+        "math-notes",
+        "live-voicemail",
+        "focus-modes",
+        "universal-clipboard",
+        "shortcuts-automation",
+        "translate",
+        "unit-convert"
+      ]
     }
   ]
 }

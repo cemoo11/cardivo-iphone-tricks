@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-11",
+  "account": "ny",
+  "post": 2,
+  "theme": "messages",
+  "tips": [
+    "duplicates",
+    "lift-subject",
+    "pin-chats",
+    "recently-deleted",
+    "undo-send",
+    "namedrop"
+  ],
+  "slides": 8,
+  "title": "6 iPhone Messages & Photos tricks every New Yorker should know",
+  "caption": "iPhone settings every New Yorker should change 🗽\nPart 8 of our daily NYC iPhone tips series.\n\nExtra tricks to try:\n• Back Tap: double-tap the back of your iPhone to take a screenshot\n• Turn on a camera grid and level for straighter photos\n• Recover deleted photos from Recently Deleted\n• Press volume up to take a photo, hold it for video\n• Swipe left with three fingers to undo, right to redo\n\nHow to get Cardivo 📲\n1. Open the App Store\n2. Type \"Cardivo\" in the search bar\n3. Tap Get and open the app\n\n#cardivo #iphonetips #iphonehacks #nyctiktok #techhacks #iphonefeatures #manhattan #newyorkcity #iphonetricks",
+  "slot_et": "2026-11-11T17:30:00-05:00",
+  "due_at_utc": "2026-11-11T22:30:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-11/ny-post-2/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-11/ny-post-2/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-11/ny-post-2/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-11/ny-post-2/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-11/ny-post-2/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-11/ny-post-2/06.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-11/ny-post-2/07.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-11/ny-post-2/08.jpg"
+  ],
+  "buffer_post_id": null
+}

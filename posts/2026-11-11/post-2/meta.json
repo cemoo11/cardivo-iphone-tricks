@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-11",
+  "account": "main",
+  "post": 2,
+  "theme": "keyboard",
+  "tips": [
+    "haptic-keyboard",
+    "three-finger-undo",
+    "calc-delete",
+    "double-space"
+  ],
+  "slides": 6,
+  "title": "4 hidden iPhone keyboard features you're not using",
+  "caption": "How to use your iPhone like a pro 😎\nTag a friend who needs this.\n\nA few more iPhone tips:\n• Edit or unsend an iMessage by holding it\n• Turn on a camera grid and level for straighter photos\n• Tap the top of the screen to jump back to the top\n• Convert currency right inside the Calculator\n\nDownload Cardivo:\n1. Open App Store\n2. Search \"Cardivo app\"\n3. Tap the blue Get button\n\n#iphone #cardivo #iphonetricks #iphonetips #techtips #ios26 #iphone15 #iphonehacks #apple",
+  "slot_et": "2026-11-11T13:00:00-05:00",
+  "due_at_utc": "2026-11-11T18:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-11/post-2/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-11/post-2/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-11/post-2/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-11/post-2/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-11/post-2/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-11/post-2/06.jpg"
+  ],
+  "buffer_post_id": null
+}
