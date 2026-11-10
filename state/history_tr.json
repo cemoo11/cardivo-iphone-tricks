@@ -91,6 +91,40 @@
         "live-listen",
         "eye-tracking"
       ]
+    },
+    {
+      "date": "2026-11-11",
+      "post": 1,
+      "theme": "camera",
+      "tips": [
+        "volume-shutter",
+        "mirror-front",
+        "quicktake",
+        "burst"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "post": 2,
+      "theme": "accessibility",
+      "tips": [
+        "live-listen",
+        "eye-tracking",
+        "sound-recognition",
+        "assistive-access"
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "post": 3,
+      "theme": "health",
+      "tips": [
+        "loud-audio",
+        "background-sounds",
+        "motion-cues",
+        "medications",
+        "night-shift"
+      ]
     }
   ]
 }
