@@ -125,6 +125,38 @@
         "medications",
         "night-shift"
       ]
+    },
+    {
+      "date": "2026-11-12",
+      "post": 1,
+      "theme": "settings",
+      "tips": [
+        "action-button",
+        "reduce-white-point",
+        "back-tap"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "post": 2,
+      "theme": "health",
+      "tips": [
+        "loud-audio",
+        "night-shift",
+        "medications"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "post": 3,
+      "theme": "productivity",
+      "tips": [
+        "math-notes",
+        "unit-convert",
+        "listen-page",
+        "offline-maps",
+        "translate"
+      ]
     }
   ]
 }
