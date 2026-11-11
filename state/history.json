@@ -239,6 +239,39 @@
         "dark-icons",
         "reduce-white-point"
       ]
+    },
+    {
+      "date": "2026-11-12",
+      "post": 1,
+      "theme": "battery",
+      "tips": [
+        "low-power",
+        "auto-lock",
+        "battery-health",
+        "bg-refresh"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "post": 2,
+      "theme": "health",
+      "tips": [
+        "medications",
+        "sleep-schedule",
+        "loud-audio",
+        "background-sounds"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "post": 3,
+      "theme": "privacy",
+      "tips": [
+        "stolen-device",
+        "silence-callers",
+        "safety-check",
+        "hide-my-email"
+      ]
     }
   ]
 }

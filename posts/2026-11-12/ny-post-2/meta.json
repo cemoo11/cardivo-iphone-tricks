@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-12",
+  "account": "ny",
+  "post": 2,
+  "theme": "privacy",
+  "tips": [
+    "passwords-app",
+    "share-wifi",
+    "precise-location",
+    "hidden-album",
+    "privacy-report"
+  ],
+  "slides": 7,
+  "title": "5 iPhone privacy hacks for your NYC subway ride",
+  "caption": "Stop scrolling, New York — these iPhone tips are worth it 🛑\nSend this to your NYC group chat.\n\nExtra tricks to try:\n• Show your battery percentage in the status bar\n• Share your Wi-Fi password by holding iPhones close\n• Tap the top of the screen to jump back to the top\n• Shake your iPhone to undo typing\n• Download offline maps before a trip\n• Move many apps at once by tapping them while dragging\n\nHow to get Cardivo 📲\n1. Open the App Store on your iPhone\n2. Search \"Cardivo\"\n3. Tap Get — it's free to download\n\n#nyctiktok #cardivo #iphone16 #iphonetips #brooklyn #iphonetricks #techtips #iphonehacks #nycliving",
+  "slot_et": "2026-11-12T12:30:00-05:00",
+  "due_at_utc": "2026-11-12T17:30:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-12/ny-post-2/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-12/ny-post-2/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-12/ny-post-2/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-12/ny-post-2/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-12/ny-post-2/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-12/ny-post-2/06.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-12/ny-post-2/07.jpg"
+  ],
+  "buffer_post_id": null
+}

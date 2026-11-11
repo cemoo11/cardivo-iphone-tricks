@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-12",
+  "account": "main",
+  "post": 3,
+  "theme": "privacy",
+  "tips": [
+    "stolen-device",
+    "silence-callers",
+    "safety-check",
+    "hide-my-email"
+  ],
+  "slides": 6,
+  "title": "4 hidden iPhone privacy features you're not using",
+  "caption": "Save this before you forget these iPhone hacks 📌\nSend this to someone who still doesn't know.\n\nMore things your iPhone can do:\n• Scan documents straight into Notes\n• Convert currency right inside the Calculator\n• Merge duplicate photos to free up storage\n• Make the camera flash blink for notifications\n\nDownload Cardivo:\n1. Open App Store\n2. Search \"Cardivo app\"\n3. Tap the blue Get button\n\n#iphone16 #iphonetricks #smartphonetips #cardivo #iphonetips #iphonehacks #iphonesettings #lifehacks",
+  "slot_et": "2026-11-12T22:00:00-05:00",
+  "due_at_utc": "2026-11-13T03:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-12/post-3/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-12/post-3/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-12/post-3/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-12/post-3/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-12/post-3/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-12/post-3/06.jpg"
+  ],
+  "buffer_post_id": null
+}

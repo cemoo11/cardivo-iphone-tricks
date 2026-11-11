@@ -117,6 +117,46 @@
         "translate",
         "unit-convert"
       ]
+    },
+    {
+      "date": "2026-11-12",
+      "post": 1,
+      "theme": "settings",
+      "tips": [
+        "drag-apps",
+        "home-search",
+        "dark-icons",
+        "app-library",
+        "reduce-white-point",
+        "back-tap"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "post": 2,
+      "theme": "privacy",
+      "tips": [
+        "passwords-app",
+        "share-wifi",
+        "precise-location",
+        "hidden-album",
+        "privacy-report"
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "post": 3,
+      "theme": "productivity",
+      "tips": [
+        "universal-clipboard",
+        "math-notes",
+        "listen-page",
+        "unit-convert",
+        "hide-distracting",
+        "offline-maps",
+        "focus-modes",
+        "live-voicemail"
+      ]
     }
   ]
 }
