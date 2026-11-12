@@ -157,6 +157,41 @@
         "offline-maps",
         "translate"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "post": 1,
+      "theme": "privacy",
+      "tips": [
+        "privacy-report",
+        "hidden-album",
+        "share-wifi",
+        "silence-callers",
+        "stolen-device"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "post": 2,
+      "theme": "health",
+      "tips": [
+        "background-sounds",
+        "walking-steadiness",
+        "motion-cues",
+        "loud-audio"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "post": 3,
+      "theme": "battery",
+      "tips": [
+        "bg-refresh",
+        "low-power",
+        "charge-limit",
+        "battery-health",
+        "battery-percent"
+      ]
     }
   ]
 }
