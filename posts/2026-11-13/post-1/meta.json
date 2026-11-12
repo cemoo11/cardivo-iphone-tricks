@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-13",
+  "account": "main",
+  "post": 1,
+  "theme": "safety",
+  "tips": [
+    "find-my-offline",
+    "crash-detection",
+    "emergency-sos",
+    "medical-id"
+  ],
+  "slides": 6,
+  "title": "4 iPhone safety tricks you need to know",
+  "caption": "Secret iPhone features hiding in Settings 🔍\nSend this to someone who still doesn't know.\n\nA few more iPhone tips:\n• Convert currency right inside the Calculator\n• Shake your iPhone to undo typing\n• Silence calls from unknown numbers\n• Recover deleted photos from Recently Deleted\n• Swipe left with three fingers to undo, right to redo\n\nHow to download Cardivo on iPhone:\n1. Go to the App Store\n2. Search for \"Cardivo\"\n3. Hit Get — free download\n\n#ios #iphonetips #apple #smartphonetips #fyp #cardivo #iphonehacks #iphonetricks #iphone16",
+  "slot_et": "2026-11-13T13:00:00-05:00",
+  "due_at_utc": "2026-11-13T18:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-13/post-1/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-13/post-1/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-13/post-1/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-13/post-1/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-13/post-1/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-13/post-1/06.jpg"
+  ],
+  "buffer_post_id": null
+}

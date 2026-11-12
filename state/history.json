@@ -272,6 +272,40 @@
         "safety-check",
         "hide-my-email"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "post": 1,
+      "theme": "safety",
+      "tips": [
+        "find-my-offline",
+        "crash-detection",
+        "emergency-sos",
+        "medical-id"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "post": 2,
+      "theme": "camera",
+      "tips": [
+        "burst",
+        "mirror-front",
+        "magnifier",
+        "visual-lookup",
+        "measure"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "post": 3,
+      "theme": "keyboard",
+      "tips": [
+        "double-space",
+        "haptic-keyboard",
+        "calc-delete",
+        "three-finger-undo"
+      ]
     }
   ]
 }

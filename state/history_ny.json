@@ -157,6 +157,45 @@
         "focus-modes",
         "live-voicemail"
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "post": 1,
+      "theme": "privacy",
+      "tips": [
+        "hidden-album",
+        "silence-callers",
+        "precise-location",
+        "passwords-app",
+        "share-wifi",
+        "hide-my-email",
+        "stolen-device"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "post": 2,
+      "theme": "settings",
+      "tips": [
+        "tap-top",
+        "back-tap",
+        "drag-apps",
+        "led-flash",
+        "lock-screen"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "post": 3,
+      "theme": "productivity",
+      "tips": [
+        "focus-modes",
+        "hide-distracting",
+        "universal-clipboard",
+        "live-voicemail",
+        "math-notes",
+        "translate"
+      ]
     }
   ]
 }

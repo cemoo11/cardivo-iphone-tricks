@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-13",
+  "account": "ny",
+  "post": 1,
+  "theme": "privacy",
+  "tips": [
+    "hidden-album",
+    "silence-callers",
+    "precise-location",
+    "passwords-app",
+    "share-wifi",
+    "hide-my-email",
+    "stolen-device"
+  ],
+  "slides": 9,
+  "title": "7 iPhone privacy features your NYC friends don't know",
+  "caption": "Your subway commute just got better with these iPhone hacks 🚇\nSave this for your next train ride.\n\nMore hidden iPhone tricks:\n• Hold the space bar to turn your keyboard into a trackpad\n• Move many apps at once by tapping them while dragging\n• Recover deleted photos from Recently Deleted\n• Download offline maps before a trip\n• Have Safari read any article out loud\n\nDownload Cardivo:\n1. Open the App Store\n2. Type \"Cardivo\" in the search bar\n3. Tap Get and open the app\n\n#manhattan #brooklyn #learnontiktok #nyctiktok #cardivo #iphonehacks #iphonetricks #techhacks #iphonetips",
+  "slot_et": "2026-11-13T07:30:00-05:00",
+  "due_at_utc": "2026-11-13T12:30:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-13/ny-post-1/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-13/ny-post-1/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-13/ny-post-1/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-13/ny-post-1/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-13/ny-post-1/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-13/ny-post-1/06.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-13/ny-post-1/07.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-13/ny-post-1/08.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-13/ny-post-1/09.jpg"
+  ],
+  "buffer_post_id": null
+}
