@@ -192,6 +192,37 @@
         "battery-health",
         "battery-percent"
       ]
+    },
+    {
+      "date": "2026-11-14",
+      "post": 1,
+      "theme": "messages",
+      "tips": [
+        "lift-subject",
+        "duplicates"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "post": 2,
+      "theme": "productivity",
+      "tips": [
+        "unit-convert",
+        "offline-maps",
+        "hide-distracting",
+        "translate",
+        "listen-page"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "post": 3,
+      "theme": "camera",
+      "tips": [
+        "magnifier",
+        "visual-lookup",
+        "volume-shutter"
+      ]
     }
   ]
 }
