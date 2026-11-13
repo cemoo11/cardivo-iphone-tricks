@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-14",
+  "account": "main",
+  "post": 3,
+  "theme": "health",
+  "tips": [
+    "walking-steadiness",
+    "night-shift",
+    "loud-audio"
+  ],
+  "slides": 5,
+  "title": "3 iPhone health tricks you need to know",
+  "caption": "Little-known iPhone tricks that save you time ⏱️\nPart 30 of our daily iPhone tips series.\n\nBonus iPhone hacks:\n• Move many apps at once by tapping them while dragging\n• Share your Wi-Fi password by holding iPhones close\n• Press volume up to take a photo, hold it for video\n• Recover deleted photos from Recently Deleted\n• Swipe down on the Home Screen to search anything\n• Tap the top of the screen to jump back to the top\n\nHow to download Cardivo on iPhone:\n1. Open App Store\n2. Search \"Cardivo app\"\n3. Tap the blue Get button\n\n#smartphonetips #iphonetipsandtricks #iphone16 #ios #iphonehacks #cardivo #iphonetricks #iphonetips",
+  "slot_et": "2026-11-14T17:00:00-05:00",
+  "due_at_utc": "2026-11-14T22:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-14/post-3/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-14/post-3/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-14/post-3/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-14/post-3/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-14/post-3/05.jpg"
+  ],
+  "buffer_post_id": null
+}

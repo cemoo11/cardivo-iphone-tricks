@@ -306,6 +306,39 @@
         "calc-delete",
         "three-finger-undo"
       ]
+    },
+    {
+      "date": "2026-11-14",
+      "post": 1,
+      "theme": "camera",
+      "tips": [
+        "live-text",
+        "grid-level",
+        "preserve-settings"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "post": 2,
+      "theme": "productivity",
+      "tips": [
+        "unit-convert",
+        "universal-clipboard",
+        "offline-maps",
+        "listen-page",
+        "translate",
+        "focus-modes"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "post": 3,
+      "theme": "health",
+      "tips": [
+        "walking-steadiness",
+        "night-shift",
+        "loud-audio"
+      ]
     }
   ]
 }

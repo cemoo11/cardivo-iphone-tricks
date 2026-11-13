@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-14",
+  "account": "main",
+  "post": 1,
+  "theme": "camera",
+  "tips": [
+    "live-text",
+    "grid-level",
+    "preserve-settings"
+  ],
+  "slides": 5,
+  "title": "3 hidden iPhone camera features you're not using",
+  "caption": "iOS tips every iPhone user should know 📲\nFollow for a new iPhone trick every day.\n\nExtra tricks to try:\n• Lock any app with Face ID by holding its icon\n• Back Tap: double-tap the back of your iPhone to take a screenshot\n• Make the camera flash blink for notifications\n• Swipe on the Calculator display to delete the last digit\n• Show your battery percentage in the status bar\n• Move many apps at once by tapping them while dragging\n\nHow to get Cardivo 📲\n1. Open the App Store on your iPhone\n2. Search \"Cardivo\"\n3. Tap Get — it's free to download\n\n#iphonehacks #iphonetips #apple #iphonetricks #fyp #cardivo #hiddenfeatures",
+  "slot_et": "2026-11-14T11:00:00-05:00",
+  "due_at_utc": "2026-11-14T16:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-14/post-1/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-14/post-1/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-14/post-1/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-14/post-1/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-14/post-1/05.jpg"
+  ],
+  "buffer_post_id": null
+}

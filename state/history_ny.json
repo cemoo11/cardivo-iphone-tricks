@@ -196,6 +196,44 @@
         "math-notes",
         "translate"
       ]
+    },
+    {
+      "date": "2026-11-14",
+      "post": 1,
+      "theme": "messages",
+      "tips": [
+        "recently-deleted",
+        "lift-subject",
+        "duplicates",
+        "pin-chats",
+        "check-in"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "post": 2,
+      "theme": "camera",
+      "tips": [
+        "volume-shutter",
+        "mirror-front",
+        "quicktake",
+        "burst",
+        "visual-lookup",
+        "scan-docs"
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "post": 3,
+      "theme": "keyboard",
+      "tips": [
+        "dot-com",
+        "haptic-keyboard",
+        "shake-undo",
+        "one-hand-keyboard",
+        "calc-delete",
+        "text-replacement"
+      ]
     }
   ]
 }
