@@ -339,6 +339,37 @@
         "night-shift",
         "loud-audio"
       ]
+    },
+    {
+      "date": "2026-11-15",
+      "post": 1,
+      "theme": "productivity",
+      "tips": [
+        "live-voicemail",
+        "math-notes"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "post": 2,
+      "theme": "keyboard",
+      "tips": [
+        "text-replacement",
+        "shake-undo",
+        "calc-delete",
+        "double-space"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "post": 3,
+      "theme": "accessibility",
+      "tips": [
+        "sound-recognition",
+        "voice-isolation",
+        "eye-tracking",
+        "live-listen"
+      ]
     }
   ]
 }

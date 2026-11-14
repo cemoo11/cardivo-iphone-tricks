@@ -234,6 +234,47 @@
         "calc-delete",
         "text-replacement"
       ]
+    },
+    {
+      "date": "2026-11-15",
+      "post": 1,
+      "theme": "privacy",
+      "tips": [
+        "hide-my-email",
+        "precise-location",
+        "safety-check",
+        "privacy-report",
+        "passwords-app"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "post": 2,
+      "theme": "camera",
+      "tips": [
+        "preserve-settings",
+        "magnifier",
+        "measure",
+        "live-text",
+        "burst",
+        "mirror-front",
+        "volume-shutter",
+        "grid-level"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "post": 3,
+      "theme": "settings",
+      "tips": [
+        "lock-apps",
+        "drag-apps",
+        "reduce-white-point",
+        "app-library",
+        "control-center",
+        "action-button",
+        "led-flash"
+      ]
     }
   ]
 }
