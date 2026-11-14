@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-15",
+  "post": 1,
+  "theme": "safety",
+  "tips": [
+    "crash-detection",
+    "medical-id"
+  ],
+  "slides": 4,
+  "title": "iPhone'da kimsenin bilmediği güvenlik özellikler 👀",
+  "caption": "iPhone'unda saklı kalan taktikler 🔍\nBilmeyen bir arkadaşına gönder 📤\n\n💡 Ekstra iPhone hileleri:\n• Telefonu salla → yazdığını geri al\n• Gönderdiğin iMessage'ı basılı tut → düzenle ya da geri al\n• Ana Ekran'da aşağı kaydır → her şeyi ara\n• Notlar'da belge tara → anında PDF\n• iPhone'ları yaklaştır → Wi-Fi şifresi otomatik paylaşılır\n\n💡 Son taktik: Cardivo\nSaat takmadan nabzını ölçmek ister misin? Cardivo kamera ve flaşı kullanarak kalp atışını ölçer, sonuçlarını günlük olarak kaydeder.\n\n👉 İndirmesi 10 saniye:\nApp Store › \"Cardivo\" ara › Al\n\n#iphonetaktikleri #keşfetteyiz #cardivo #appletürkiye #iphone17 #ios #iphone",
+  "publish_local": "2026-11-15T11:00:00",
+  "timezone": "Europe/Istanbul",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts-tr/2026-11-15/post-1/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts-tr/2026-11-15/post-1/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts-tr/2026-11-15/post-1/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts-tr/2026-11-15/post-1/04.jpg"
+  ],
+  "metricool_post_id": null
+}

@@ -223,6 +223,35 @@
         "visual-lookup",
         "volume-shutter"
       ]
+    },
+    {
+      "date": "2026-11-15",
+      "post": 1,
+      "theme": "safety",
+      "tips": [
+        "crash-detection",
+        "medical-id"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "post": 2,
+      "theme": "privacy",
+      "tips": [
+        "privacy-report",
+        "silence-callers",
+        "share-wifi"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "post": 3,
+      "theme": "productivity",
+      "tips": [
+        "unit-convert",
+        "offline-maps",
+        "listen-page"
+      ]
     }
   ]
 }
