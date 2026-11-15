@@ -370,6 +370,37 @@
         "eye-tracking",
         "live-listen"
       ]
+    },
+    {
+      "date": "2026-11-16",
+      "post": 1,
+      "theme": "settings",
+      "tips": [
+        "reduce-white-point",
+        "lock-screen",
+        "drag-apps",
+        "dark-icons",
+        "lock-apps",
+        "app-library"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "post": 2,
+      "theme": "health",
+      "tips": [
+        "sleep-schedule",
+        "medications"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "post": 3,
+      "theme": "keyboard",
+      "tips": [
+        "one-hand-keyboard",
+        "text-replacement"
+      ]
     }
   ]
 }

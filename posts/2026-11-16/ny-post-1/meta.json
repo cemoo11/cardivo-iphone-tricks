@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-16",
+  "account": "ny",
+  "post": 1,
+  "theme": "accessibility",
+  "tips": [
+    "eye-tracking",
+    "voice-isolation",
+    "sound-recognition",
+    "live-listen",
+    "assistive-access",
+    "bold-text"
+  ],
+  "slides": 8,
+  "title": "6 iPhone accessibility hacks for busy New Yorkers",
+  "caption": "iPhone settings every New Yorker should change 🗽\nSwipe through before your stop.\n\nMore hidden iPhone tricks:\n• Point your camera at text and copy it with Live Text\n• Type an equation with = in Notes for instant answers\n• Tap the top of the screen to jump back to the top\n• Swipe on the Calculator display to delete the last digit\n• Shake your iPhone to undo typing\n• Merge duplicate photos to free up storage\n\nHow to get Cardivo 📲\n1. Open the App Store\n2. Type \"Cardivo\" in the search bar\n3. Tap Get and open the app\n\n#iphonesettings #iphonetips #cardivo #nyc #iphonehacks #iphonetricks #iphone15 #nyctiktok #manhattan",
+  "slot_et": "2026-11-16T07:30:00-05:00",
+  "due_at_utc": "2026-11-16T12:30:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-16/ny-post-1/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-16/ny-post-1/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-16/ny-post-1/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-16/ny-post-1/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-16/ny-post-1/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-16/ny-post-1/06.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-16/ny-post-1/07.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-16/ny-post-1/08.jpg"
+  ],
+  "buffer_post_id": null
+}

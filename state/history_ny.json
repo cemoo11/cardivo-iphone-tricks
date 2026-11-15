@@ -275,6 +275,45 @@
         "action-button",
         "led-flash"
       ]
+    },
+    {
+      "date": "2026-11-16",
+      "post": 1,
+      "theme": "accessibility",
+      "tips": [
+        "eye-tracking",
+        "voice-isolation",
+        "sound-recognition",
+        "live-listen",
+        "assistive-access",
+        "bold-text"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "post": 2,
+      "theme": "keyboard",
+      "tips": [
+        "double-space",
+        "three-finger-undo",
+        "trackpad",
+        "shake-undo",
+        "haptic-keyboard",
+        "dot-com",
+        "calc-delete"
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "post": 3,
+      "theme": "messages",
+      "tips": [
+        "send-later",
+        "check-in",
+        "namedrop",
+        "recently-deleted",
+        "pin-chats"
+      ]
     }
   ]
 }
