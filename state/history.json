@@ -401,6 +401,37 @@
         "one-hand-keyboard",
         "text-replacement"
       ]
+    },
+    {
+      "date": "2026-11-17",
+      "post": 1,
+      "theme": "camera",
+      "tips": [
+        "live-text",
+        "volume-shutter",
+        "scan-docs",
+        "quicktake"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "post": 2,
+      "theme": "accessibility",
+      "tips": [
+        "bold-text",
+        "live-listen"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "post": 3,
+      "theme": "messages",
+      "tips": [
+        "send-later",
+        "pin-chats",
+        "undo-send",
+        "lift-subject"
+      ]
     }
   ]
 }

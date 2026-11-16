@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-17",
+  "account": "ny",
+  "post": 1,
+  "theme": "battery",
+  "tips": [
+    "battery-health",
+    "auto-lock",
+    "low-power",
+    "bg-refresh",
+    "charge-limit"
+  ],
+  "slides": 7,
+  "title": "5 iPhone battery hacks for your NYC subway ride",
+  "caption": "Things your iPhone can do that most New Yorkers don't know 👀\nSwipe through before your stop.\n\nMore things your iPhone can do:\n• Share your Wi-Fi password by holding iPhones close\n• Convert currency right inside the Calculator\n• Merge duplicate photos to free up storage\n• Recover deleted photos from Recently Deleted\n• Schedule a text with Send Later in Messages\n• Tap the top of the screen to jump back to the top\n\nWant Cardivo? Here's how 👇\n1. Open the App Store\n2. Type \"Cardivo\" in the search bar\n3. Tap Get and open the app\n\n#techhacks #iphone15 #iphonehacks #nyctiktok #iphonetricks #manhattan #cardivo #iphonetips #newyork",
+  "slot_et": "2026-11-17T08:30:00-05:00",
+  "due_at_utc": "2026-11-17T13:30:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/ny-post-1/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/ny-post-1/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/ny-post-1/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/ny-post-1/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/ny-post-1/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/ny-post-1/06.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/ny-post-1/07.jpg"
+  ],
+  "buffer_post_id": null
+}

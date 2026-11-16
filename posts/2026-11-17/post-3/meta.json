@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-17",
+  "account": "main",
+  "post": 3,
+  "theme": "messages",
+  "tips": [
+    "send-later",
+    "pin-chats",
+    "undo-send",
+    "lift-subject"
+  ],
+  "slides": 6,
+  "title": "4 hidden iPhone Messages & Photos features you're not using",
+  "caption": "Underrated iPhone features you'll use daily 💡\nSwipe through and save it for later.\n\nMore hidden iPhone tricks:\n• Hold a photo's subject to lift it off the background\n• Hold the space bar to turn your keyboard into a trackpad\n• Move many apps at once by tapping them while dragging\n• Swipe left with three fingers to undo, right to redo\n• Download offline maps before a trip\n• Use Text Replacement to type your email in two keystrokes\n\nHow to get Cardivo 📲\n1. Open the App Store on your iPhone\n2. Search \"Cardivo\"\n3. Tap Get — it's free to download\n\n#iphonehacks #ios #hiddenfeatures #iphonesettings #iphonetips #iphonefeatures #cardivo #iphonetricks #apple",
+  "slot_et": "2026-11-17T22:00:00-05:00",
+  "due_at_utc": "2026-11-18T03:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/post-3/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/post-3/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/post-3/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/post-3/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/post-3/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/post-3/06.jpg"
+  ],
+  "buffer_post_id": null
+}

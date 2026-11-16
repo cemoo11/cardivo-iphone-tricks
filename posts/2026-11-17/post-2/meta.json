@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-17",
+  "account": "main",
+  "post": 2,
+  "theme": "accessibility",
+  "tips": [
+    "bold-text",
+    "live-listen"
+  ],
+  "slides": 4,
+  "title": "2 accessibility settings to change on your iPhone right now",
+  "caption": "Underrated iPhone features you'll use daily 💡\nPart 38 of our daily iPhone tips series.\n\nExtra tricks to try:\n• Edit or unsend an iMessage by holding it\n• Swipe left with three fingers to undo, right to redo\n• Shake your iPhone to undo typing\n• Show your battery percentage in the status bar\n• Move many apps at once by tapping them while dragging\n• Type an equation with = in Notes for instant answers\n\nWant Cardivo? Here's how 👇\n1. Go to the App Store\n2. Search for \"Cardivo\"\n3. Hit Get — free download\n\n#iphonetips #iphonetricks #cardivo #iphonesettings #hiddenfeatures #iphonehacks #lifehacks",
+  "slot_et": "2026-11-17T13:00:00-05:00",
+  "due_at_utc": "2026-11-17T18:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/post-2/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/post-2/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/post-2/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-17/post-2/04.jpg"
+  ],
+  "buffer_post_id": null
+}

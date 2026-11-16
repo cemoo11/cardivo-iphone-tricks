@@ -314,6 +314,45 @@
         "recently-deleted",
         "pin-chats"
       ]
+    },
+    {
+      "date": "2026-11-17",
+      "post": 1,
+      "theme": "battery",
+      "tips": [
+        "battery-health",
+        "auto-lock",
+        "low-power",
+        "bg-refresh",
+        "charge-limit"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "post": 2,
+      "theme": "settings",
+      "tips": [
+        "dark-icons",
+        "tap-top",
+        "control-center",
+        "lock-screen",
+        "reduce-white-point",
+        "home-search",
+        "lock-apps"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "post": 3,
+      "theme": "health",
+      "tips": [
+        "sleep-schedule",
+        "screen-distance",
+        "motion-cues",
+        "walking-steadiness",
+        "night-shift",
+        "loud-audio"
+      ]
     }
   ]
 }
