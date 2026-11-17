@@ -432,6 +432,42 @@
         "undo-send",
         "lift-subject"
       ]
+    },
+    {
+      "date": "2026-11-18",
+      "post": 1,
+      "theme": "battery",
+      "tips": [
+        "auto-lock",
+        "battery-health",
+        "bg-refresh",
+        "battery-percent",
+        "charge-limit"
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "post": 2,
+      "theme": "messages",
+      "tips": [
+        "namedrop",
+        "pin-chats",
+        "duplicates",
+        "recently-deleted",
+        "lift-subject",
+        "send-later"
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "post": 3,
+      "theme": "productivity",
+      "tips": [
+        "focus-modes",
+        "listen-page",
+        "live-voicemail",
+        "universal-clipboard"
+      ]
     }
   ]
 }

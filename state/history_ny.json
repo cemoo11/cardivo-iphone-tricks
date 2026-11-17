@@ -353,6 +353,44 @@
         "night-shift",
         "loud-audio"
       ]
+    },
+    {
+      "date": "2026-11-18",
+      "post": 1,
+      "theme": "keyboard",
+      "tips": [
+        "one-hand-keyboard",
+        "shake-undo",
+        "dot-com",
+        "three-finger-undo",
+        "text-replacement",
+        "trackpad",
+        "calc-delete"
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "post": 2,
+      "theme": "camera",
+      "tips": [
+        "live-text",
+        "measure",
+        "visual-lookup",
+        "grid-level",
+        "preserve-settings"
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "post": 3,
+      "theme": "health",
+      "tips": [
+        "walking-steadiness",
+        "sleep-schedule",
+        "background-sounds",
+        "night-shift",
+        "loud-audio"
+      ]
     }
   ]
 }
