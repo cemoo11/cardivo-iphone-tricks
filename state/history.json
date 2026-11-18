@@ -468,6 +468,39 @@
         "live-voicemail",
         "universal-clipboard"
       ]
+    },
+    {
+      "date": "2026-11-19",
+      "post": 1,
+      "theme": "safety",
+      "tips": [
+        "crash-detection",
+        "emergency-sos",
+        "find-my-offline"
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "post": 2,
+      "theme": "settings",
+      "tips": [
+        "lock-screen",
+        "tap-top",
+        "led-flash",
+        "drag-apps",
+        "back-tap",
+        "reduce-white-point"
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "post": 3,
+      "theme": "messages",
+      "tips": [
+        "pin-chats",
+        "check-in",
+        "recently-deleted"
+      ]
     }
   ]
 }

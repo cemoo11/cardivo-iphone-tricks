@@ -391,6 +391,44 @@
         "night-shift",
         "loud-audio"
       ]
+    },
+    {
+      "date": "2026-11-19",
+      "post": 1,
+      "theme": "battery",
+      "tips": [
+        "battery-health",
+        "bg-refresh",
+        "battery-percent",
+        "auto-lock",
+        "low-power",
+        "charge-limit"
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "post": 2,
+      "theme": "productivity",
+      "tips": [
+        "unit-convert",
+        "shortcuts-automation",
+        "offline-maps",
+        "translate",
+        "listen-page"
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "post": 3,
+      "theme": "health",
+      "tips": [
+        "medications",
+        "walking-steadiness",
+        "screen-distance",
+        "loud-audio",
+        "sleep-schedule",
+        "motion-cues"
+      ]
     }
   ]
 }

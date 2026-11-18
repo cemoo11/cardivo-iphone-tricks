@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-19",
+  "account": "main",
+  "post": 1,
+  "theme": "safety",
+  "tips": [
+    "crash-detection",
+    "emergency-sos",
+    "find-my-offline"
+  ],
+  "slides": 5,
+  "title": "3 hidden iPhone safety features you're not using",
+  "caption": "Things your iPhone can do that you didn't know about ✨\nSend this to someone who still doesn't know.\n\nMore things your iPhone can do:\n• Share your Wi-Fi password by holding iPhones close\n• Show your battery percentage in the status bar\n• Press volume up to take a photo, hold it for video\n• Use Text Replacement to type your email in two keystrokes\n\nHow to get Cardivo 📲\n1. Open App Store\n2. Search \"Cardivo app\"\n3. Tap the blue Get button\n\n#iphonetricks #smartphonetips #iphonehacks #iphonesettings #iphonetips #cardivo #iphone17",
+  "slot_et": "2026-11-19T06:00:00-05:00",
+  "due_at_utc": "2026-11-19T11:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-19/post-1/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-19/post-1/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-19/post-1/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-19/post-1/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-19/post-1/05.jpg"
+  ],
+  "buffer_post_id": null
+}
