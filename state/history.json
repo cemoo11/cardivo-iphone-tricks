@@ -501,6 +501,35 @@
         "check-in",
         "recently-deleted"
       ]
+    },
+    {
+      "date": "2026-11-20",
+      "post": 1,
+      "theme": "messages",
+      "tips": [
+        "recently-deleted",
+        "undo-send"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "post": 2,
+      "theme": "safety",
+      "tips": [
+        "medical-id",
+        "crash-detection",
+        "emergency-sos"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "post": 3,
+      "theme": "accessibility",
+      "tips": [
+        "bold-text",
+        "assistive-access",
+        "eye-tracking"
+      ]
     }
   ]
 }

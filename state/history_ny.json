@@ -429,6 +429,44 @@
         "sleep-schedule",
         "motion-cues"
       ]
+    },
+    {
+      "date": "2026-11-20",
+      "post": 1,
+      "theme": "battery",
+      "tips": [
+        "battery-health",
+        "bg-refresh",
+        "battery-percent",
+        "charge-limit",
+        "low-power",
+        "auto-lock"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "post": 2,
+      "theme": "health",
+      "tips": [
+        "medications",
+        "screen-distance",
+        "night-shift",
+        "background-sounds",
+        "motion-cues"
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "post": 3,
+      "theme": "mixed",
+      "tips": [
+        "safety-check",
+        "offline-maps",
+        "magnifier",
+        "lock-screen",
+        "silence-callers",
+        "live-listen"
+      ]
     }
   ]
 }
