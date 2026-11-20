@@ -467,6 +467,48 @@
         "silence-callers",
         "live-listen"
       ]
+    },
+    {
+      "date": "2026-11-21",
+      "post": 1,
+      "theme": "mixed",
+      "tips": [
+        "listen-page",
+        "eye-tracking",
+        "stolen-device",
+        "voice-isolation",
+        "privacy-report",
+        "assistive-access",
+        "bold-text",
+        "three-finger-undo"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "post": 2,
+      "theme": "mixed",
+      "tips": [
+        "find-my-offline",
+        "crash-detection",
+        "medications",
+        "emergency-sos",
+        "undo-send",
+        "sound-recognition",
+        "medical-id",
+        "check-in"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "post": 3,
+      "theme": "mixed",
+      "tips": [
+        "action-button",
+        "double-space",
+        "send-later",
+        "control-center",
+        "shortcuts-automation"
+      ]
     }
   ]
 }

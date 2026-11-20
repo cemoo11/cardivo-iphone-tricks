@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-21",
+  "account": "main",
+  "post": 2,
+  "theme": "settings",
+  "tips": [
+    "led-flash",
+    "action-button",
+    "back-tap",
+    "drag-apps",
+    "app-library",
+    "control-center"
+  ],
+  "slides": 8,
+  "title": "6 hidden iPhone features you're not using",
+  "caption": "POV: you finally learn the hidden iPhone features 😮\nFollow for a new iPhone trick every day.\n\nMore hidden iPhone tricks:\n• Edit or unsend an iMessage by holding it\n• Type an equation with = in Notes for instant answers\n• Back Tap: double-tap the back of your iPhone to take a screenshot\n• Use Text Replacement to type your email in two keystrokes\n• Lock any app with Face ID by holding its icon\n• Make the camera flash blink for notifications\n\nWant Cardivo? Here's how 👇\n1. Open the App Store\n2. Type \"Cardivo\" in the search bar\n3. Tap Get and open the app\n\n#iphonehacks #apple #iphone16 #lifehacks #iphonetricks #iphonetips #cardivo",
+  "slot_et": "2026-11-21T15:00:00-05:00",
+  "due_at_utc": "2026-11-21T20:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/post-2/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/post-2/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/post-2/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/post-2/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/post-2/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/post-2/06.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/post-2/07.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/post-2/08.jpg"
+  ],
+  "buffer_post_id": null
+}

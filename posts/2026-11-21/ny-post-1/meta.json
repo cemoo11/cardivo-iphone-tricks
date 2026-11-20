@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-21",
+  "account": "ny",
+  "post": 1,
+  "theme": "mixed",
+  "tips": [
+    "listen-page",
+    "eye-tracking",
+    "stolen-device",
+    "voice-isolation",
+    "privacy-report",
+    "assistive-access",
+    "bold-text",
+    "three-finger-undo"
+  ],
+  "slides": 10,
+  "title": "8 iPhone tricks I learned living in New York",
+  "caption": "iPhone hacks I use every day in New York 🍎\nSend this to your NYC group chat.\n\nExtra tricks to try:\n• Swipe left with three fingers to undo, right to redo\n• Swipe down on the Home Screen to search anything\n• Download offline maps before a trip\n• Back Tap: double-tap the back of your iPhone to take a screenshot\n• Turn on a camera grid and level for straighter photos\n• Tap the top of the screen to jump back to the top\n• Make the camera flash blink for notifications\n\nHow to download Cardivo on iPhone:\n1. Open App Store\n2. Search \"Cardivo app\"\n3. Tap the blue Get button\n\n#newyork #iphonehacks #iphonetricks #cardivo #iphonetips #newyorkcity #brooklyn #iphone #ios26",
+  "slot_et": "2026-11-21T10:30:00-05:00",
+  "due_at_utc": "2026-11-21T15:30:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/ny-post-1/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/ny-post-1/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/ny-post-1/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/ny-post-1/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/ny-post-1/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/ny-post-1/06.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/ny-post-1/07.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/ny-post-1/08.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/ny-post-1/09.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-21/ny-post-1/10.jpg"
+  ],
+  "buffer_post_id": null
+}

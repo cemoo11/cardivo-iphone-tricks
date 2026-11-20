@@ -530,6 +530,38 @@
         "assistive-access",
         "eye-tracking"
       ]
+    },
+    {
+      "date": "2026-11-21",
+      "post": 1,
+      "theme": "messages",
+      "tips": [
+        "duplicates"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "post": 2,
+      "theme": "settings",
+      "tips": [
+        "led-flash",
+        "action-button",
+        "back-tap",
+        "drag-apps",
+        "app-library",
+        "control-center"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "post": 3,
+      "theme": "battery",
+      "tips": [
+        "low-power",
+        "charge-limit",
+        "auto-lock",
+        "battery-percent"
+      ]
     }
   ]
 }
