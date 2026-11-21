@@ -509,6 +509,43 @@
         "control-center",
         "shortcuts-automation"
       ]
+    },
+    {
+      "date": "2026-11-22",
+      "post": 1,
+      "theme": "mixed",
+      "tips": [
+        "battery-percent",
+        "background-sounds",
+        "crash-detection",
+        "action-button",
+        "emergency-sos"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "post": 2,
+      "theme": "mixed",
+      "tips": [
+        "find-my-offline",
+        "medical-id",
+        "stolen-device",
+        "quicktake",
+        "grid-level",
+        "volume-shutter"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "post": 3,
+      "theme": "mixed",
+      "tips": [
+        "burst",
+        "mirror-front",
+        "preserve-settings",
+        "live-text",
+        "scan-docs"
+      ]
     }
   ]
 }

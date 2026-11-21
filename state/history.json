@@ -562,6 +562,36 @@
         "auto-lock",
         "battery-percent"
       ]
+    },
+    {
+      "date": "2026-11-22",
+      "post": 1,
+      "theme": "keyboard",
+      "tips": [
+        "trackpad",
+        "shake-undo",
+        "dot-com",
+        "one-hand-keyboard"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "post": 2,
+      "theme": "camera",
+      "tips": [
+        "magnifier",
+        "live-text"
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "post": 3,
+      "theme": "messages",
+      "tips": [
+        "namedrop",
+        "lift-subject",
+        "send-later"
+      ]
     }
   ]
 }

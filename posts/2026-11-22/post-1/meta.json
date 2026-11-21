@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-22",
+  "account": "main",
+  "post": 1,
+  "theme": "keyboard",
+  "tips": [
+    "trackpad",
+    "shake-undo",
+    "dot-com",
+    "one-hand-keyboard"
+  ],
+  "slides": 6,
+  "title": "4 hidden iPhone keyboard features you're not using",
+  "caption": "How to use your iPhone like a pro 😎\nSwipe through and save it for later.\n\nMore things your iPhone can do:\n• Shake your iPhone to undo typing\n• Edit or unsend an iMessage by holding it\n• Show your battery percentage in the status bar\n• Point your camera at text and copy it with Live Text\n\nHow to get Cardivo 📲\n1. Open the App Store\n2. Type \"Cardivo\" in the search bar\n3. Tap Get and open the app\n\n#cardivo #iphone17 #foryou #iphonehacks #techtok #iphonetips #iphonetricks #techtips #hiddenfeatures",
+  "slot_et": "2026-11-22T09:00:00-05:00",
+  "due_at_utc": "2026-11-22T14:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-22/post-1/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-22/post-1/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-22/post-1/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-22/post-1/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-22/post-1/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-22/post-1/06.jpg"
+  ],
+  "buffer_post_id": null
+}
