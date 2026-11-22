@@ -592,6 +592,37 @@
         "lift-subject",
         "send-later"
       ]
+    },
+    {
+      "date": "2026-11-23",
+      "post": 1,
+      "theme": "privacy",
+      "tips": [
+        "precise-location",
+        "stolen-device",
+        "share-wifi"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "post": 2,
+      "theme": "keyboard",
+      "tips": [
+        "dot-com",
+        "one-hand-keyboard",
+        "trackpad",
+        "shake-undo"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "post": 3,
+      "theme": "accessibility",
+      "tips": [
+        "eye-tracking",
+        "live-listen",
+        "sound-recognition"
+      ]
     }
   ]
 }

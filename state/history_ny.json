@@ -546,6 +546,45 @@
         "live-text",
         "scan-docs"
       ]
+    },
+    {
+      "date": "2026-11-23",
+      "post": 1,
+      "theme": "settings",
+      "tips": [
+        "app-library",
+        "back-tap",
+        "lock-apps",
+        "dark-icons",
+        "tap-top",
+        "led-flash",
+        "home-search"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "post": 2,
+      "theme": "mixed",
+      "tips": [
+        "medical-id",
+        "haptic-keyboard",
+        "double-space",
+        "safety-check",
+        "silence-callers",
+        "hidden-album"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "post": 3,
+      "theme": "mixed",
+      "tips": [
+        "emergency-sos",
+        "crash-detection",
+        "hide-my-email",
+        "text-replacement",
+        "find-my-offline"
+      ]
     }
   ]
 }

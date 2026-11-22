@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-23",
+  "account": "main",
+  "post": 1,
+  "theme": "privacy",
+  "tips": [
+    "precise-location",
+    "stolen-device",
+    "share-wifi"
+  ],
+  "slides": 5,
+  "title": "3 privacy settings to change on your iPhone right now",
+  "caption": "Little-known iPhone tricks that save you time ⏱️\nComment the number you're turning on first.\n\nA few more iPhone tips:\n• Silence calls from unknown numbers\n• Convert currency right inside the Calculator\n• Pin your favorite chats at the top of Messages\n• Tap the top of the screen to jump back to the top\n\nWant Cardivo? Here's how 👇\n1. Open the App Store on your iPhone\n2. Search \"Cardivo\"\n3. Tap Get — it's free to download\n\n#fyp #iphonetips #iphonehacks #iphonetricks #cardivo #techtips #iphone15",
+  "slot_et": "2026-11-23T08:00:00-05:00",
+  "due_at_utc": "2026-11-23T13:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-23/post-1/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-23/post-1/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-23/post-1/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-23/post-1/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-23/post-1/05.jpg"
+  ],
+  "buffer_post_id": null
+}
