@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-24",
+  "account": "main",
+  "post": 1,
+  "theme": "battery",
+  "tips": [
+    "low-power",
+    "battery-health",
+    "charge-limit",
+    "bg-refresh",
+    "battery-percent"
+  ],
+  "slides": 7,
+  "title": "5 hidden iPhone battery features you're not using",
+  "caption": "Secret iPhone features hiding in Settings 🔍\nFollow for a new iPhone trick every day.\n\nMore things your iPhone can do:\n• Have Safari read any article out loud\n• Hold the space bar to turn your keyboard into a trackpad\n• Schedule a text with Send Later in Messages\n• Swipe on the Calculator display to delete the last digit\n• Share your Wi-Fi password by holding iPhones close\n• Make the camera flash blink for notifications\n\nWant Cardivo? Here's how 👇\n1. Go to the App Store\n2. Search for \"Cardivo\"\n3. Hit Get — free download\n\n#smartphonetips #ios #iphonehacks #cardivo #iphonetips #iphonefeatures #iphonetricks",
+  "slot_et": "2026-11-24T07:00:00-05:00",
+  "due_at_utc": "2026-11-24T12:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-24/post-1/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-24/post-1/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-24/post-1/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-24/post-1/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-24/post-1/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-24/post-1/06.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-24/post-1/07.jpg"
+  ],
+  "buffer_post_id": null
+}

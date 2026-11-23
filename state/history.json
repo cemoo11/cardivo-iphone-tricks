@@ -623,6 +623,38 @@
         "live-listen",
         "sound-recognition"
       ]
+    },
+    {
+      "date": "2026-11-24",
+      "post": 1,
+      "theme": "battery",
+      "tips": [
+        "low-power",
+        "battery-health",
+        "charge-limit",
+        "bg-refresh",
+        "battery-percent"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "post": 2,
+      "theme": "accessibility",
+      "tips": [
+        "assistive-access",
+        "sound-recognition",
+        "voice-isolation",
+        "bold-text"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "post": 3,
+      "theme": "safety",
+      "tips": [
+        "medical-id",
+        "find-my-offline"
+      ]
     }
   ]
 }

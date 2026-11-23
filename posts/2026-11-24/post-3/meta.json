@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-24",
+  "account": "main",
+  "post": 3,
+  "theme": "safety",
+  "tips": [
+    "medical-id",
+    "find-my-offline"
+  ],
+  "slides": 4,
+  "title": "2 safety settings to change on your iPhone right now",
+  "caption": "iPhone tips and tricks I wish I knew sooner 📱\nSave this and try them today.\n\nA few more iPhone tips:\n• Download offline maps before a trip\n• Back Tap: double-tap the back of your iPhone to take a screenshot\n• Lock any app with Face ID by holding its icon\n• Swipe down on the Home Screen to search anything\n\nDownload Cardivo:\n1. Open the App Store on your iPhone\n2. Search \"Cardivo\"\n3. Tap Get — it's free to download\n\n#iphonesettings #techtips #iphonehacks #iphonetricks #cardivo #iphonetips #fyp",
+  "slot_et": "2026-11-24T22:00:00-05:00",
+  "due_at_utc": "2026-11-25T03:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-24/post-3/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-24/post-3/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-24/post-3/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-24/post-3/04.jpg"
+  ],
+  "buffer_post_id": null
+}

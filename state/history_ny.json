@@ -585,6 +585,44 @@
         "text-replacement",
         "find-my-offline"
       ]
+    },
+    {
+      "date": "2026-11-24",
+      "post": 1,
+      "theme": "messages",
+      "tips": [
+        "undo-send",
+        "duplicates",
+        "namedrop",
+        "lift-subject",
+        "send-later"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "post": 2,
+      "theme": "mixed",
+      "tips": [
+        "share-wifi",
+        "trackpad",
+        "visual-lookup",
+        "live-listen",
+        "one-hand-keyboard",
+        "eye-tracking"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "post": 3,
+      "theme": "mixed",
+      "tips": [
+        "sound-recognition",
+        "bold-text",
+        "assistive-access",
+        "voice-isolation",
+        "quicktake",
+        "burst"
+      ]
     }
   ]
 }
