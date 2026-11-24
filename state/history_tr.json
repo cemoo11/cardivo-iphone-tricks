@@ -252,6 +252,63 @@
         "offline-maps",
         "listen-page"
       ]
+    },
+    {
+      "date": "2026-11-24",
+      "post": 1,
+      "theme": "battery",
+      "tips": [
+        "battery-percent",
+        "battery-health"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "post": 2,
+      "theme": "camera",
+      "tips": [
+        "scan-docs",
+        "burst"
+      ]
+    },
+    {
+      "date": "2026-11-24",
+      "post": 3,
+      "theme": "privacy",
+      "tips": [
+        "passwords-app",
+        "hidden-album",
+        "privacy-report",
+        "safety-check",
+        "stolen-device"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "post": 1,
+      "theme": "health",
+      "tips": [
+        "motion-cues",
+        "loud-audio"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "post": 2,
+      "theme": "privacy",
+      "tips": [
+        "hidden-album"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "post": 3,
+      "theme": "settings",
+      "tips": [
+        "drag-apps",
+        "lock-apps",
+        "tap-top"
+      ]
     }
   ]
 }
