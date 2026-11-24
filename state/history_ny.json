@@ -623,6 +623,46 @@
         "quicktake",
         "burst"
       ]
+    },
+    {
+      "date": "2026-11-25",
+      "post": 1,
+      "theme": "messages",
+      "tips": [
+        "duplicates",
+        "lift-subject",
+        "recently-deleted",
+        "undo-send",
+        "pin-chats"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "post": 2,
+      "theme": "productivity",
+      "tips": [
+        "shortcuts-automation",
+        "universal-clipboard",
+        "math-notes",
+        "translate",
+        "hide-distracting",
+        "focus-modes",
+        "unit-convert",
+        "live-voicemail"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "post": 3,
+      "theme": "mixed",
+      "tips": [
+        "scan-docs",
+        "magnifier",
+        "measure",
+        "namedrop",
+        "quicktake",
+        "grid-level"
+      ]
     }
   ]
 }

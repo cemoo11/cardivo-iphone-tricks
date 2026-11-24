@@ -655,6 +655,36 @@
         "medical-id",
         "find-my-offline"
       ]
+    },
+    {
+      "date": "2026-11-25",
+      "post": 1,
+      "theme": "keyboard",
+      "tips": [
+        "calc-delete",
+        "double-space",
+        "trackpad",
+        "three-finger-undo"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "post": 2,
+      "theme": "health",
+      "tips": [
+        "night-shift",
+        "motion-cues",
+        "medications"
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "post": 3,
+      "theme": "privacy",
+      "tips": [
+        "safety-check",
+        "hide-my-email"
+      ]
     }
   ]
 }

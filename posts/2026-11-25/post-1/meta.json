@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-25",
+  "account": "main",
+  "post": 1,
+  "theme": "keyboard",
+  "tips": [
+    "calc-delete",
+    "double-space",
+    "trackpad",
+    "three-finger-undo"
+  ],
+  "slides": 6,
+  "title": "4 iPhone keyboard tricks you need to know",
+  "caption": "Your iPhone is way smarter than you think 🧠\nFollow for a new iPhone trick every day.\n\nMore things your iPhone can do:\n• Convert currency right inside the Calculator\n• Swap contacts with NameDrop by holding two iPhones together\n• Use Text Replacement to type your email in two keystrokes\n• Hold the space bar to turn your keyboard into a trackpad\n\nHow to get Cardivo 📲\n1. Open the App Store on your iPhone\n2. Search \"Cardivo\"\n3. Tap Get — it's free to download\n\n#apple #iphonehacks #iphonetips #iphonetipsandtricks #iphonetricks #cardivo #iphone #learnontiktok #techtips",
+  "slot_et": "2026-11-25T06:00:00-05:00",
+  "due_at_utc": "2026-11-25T11:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-25/post-1/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-25/post-1/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-25/post-1/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-25/post-1/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-25/post-1/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-25/post-1/06.jpg"
+  ],
+  "buffer_post_id": null
+}
