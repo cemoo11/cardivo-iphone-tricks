@@ -663,6 +663,45 @@
         "quicktake",
         "grid-level"
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "post": 1,
+      "theme": "productivity",
+      "tips": [
+        "universal-clipboard",
+        "live-voicemail",
+        "math-notes",
+        "focus-modes",
+        "unit-convert",
+        "listen-page",
+        "hide-distracting"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "post": 2,
+      "theme": "privacy",
+      "tips": [
+        "precise-location",
+        "privacy-report",
+        "share-wifi",
+        "passwords-app",
+        "hidden-album"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "post": 3,
+      "theme": "settings",
+      "tips": [
+        "back-tap",
+        "drag-apps",
+        "reduce-white-point",
+        "dark-icons",
+        "app-library",
+        "home-search"
+      ]
     }
   ]
 }

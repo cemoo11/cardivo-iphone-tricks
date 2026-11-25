@@ -685,6 +685,40 @@
         "safety-check",
         "hide-my-email"
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "post": 1,
+      "theme": "settings",
+      "tips": [
+        "back-tap",
+        "dark-icons",
+        "lock-screen",
+        "home-search"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "post": 2,
+      "theme": "camera",
+      "tips": [
+        "burst",
+        "grid-level",
+        "quicktake",
+        "visual-lookup",
+        "mirror-front",
+        "measure"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "post": 3,
+      "theme": "keyboard",
+      "tips": [
+        "text-replacement",
+        "dot-com",
+        "three-finger-undo"
+      ]
     }
   ]
 }
