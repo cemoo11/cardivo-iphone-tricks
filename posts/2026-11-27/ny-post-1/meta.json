@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-27",
+  "account": "ny",
+  "post": 1,
+  "theme": "mixed",
+  "tips": [
+    "live-voicemail",
+    "universal-clipboard",
+    "precise-location",
+    "back-tap",
+    "silence-callers",
+    "math-notes",
+    "drag-apps",
+    "led-flash"
+  ],
+  "slides": 10,
+  "title": "8 iPhone tricks I learned living in New York",
+  "caption": "Living in NYC? Turn these iPhone features on 🏙️\nSwipe through before your stop.\n\nBonus iPhone hacks:\n• Swipe on the Calculator display to delete the last digit\n• Lock any app with Face ID by holding its icon\n• Turn on a camera grid and level for straighter photos\n• Hold the space bar to turn your keyboard into a trackpad\n• Recover deleted photos from Recently Deleted\n\nHow to get Cardivo 📲\n1. Open the App Store\n2. Type \"Cardivo\" in the search bar\n3. Tap Get and open the app\n\n#cardivo #nycliving #iphonetricks #nyctiktok #iphonehacks #lifehacks #hiddenfeatures #iphonetips #newyorkcity",
+  "slot_et": "2026-11-27T07:30:00-05:00",
+  "due_at_utc": "2026-11-27T12:30:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-1/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-1/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-1/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-1/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-1/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-1/06.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-1/07.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-1/08.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-1/09.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-1/10.jpg"
+  ],
+  "buffer_post_id": null
+}

@@ -719,6 +719,39 @@
         "dot-com",
         "three-finger-undo"
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "post": 1,
+      "theme": "health",
+      "tips": [
+        "walking-steadiness",
+        "sleep-schedule",
+        "night-shift",
+        "motion-cues"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "post": 2,
+      "theme": "messages",
+      "tips": [
+        "namedrop",
+        "duplicates",
+        "check-in",
+        "undo-send"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "post": 3,
+      "theme": "safety",
+      "tips": [
+        "medical-id",
+        "find-my-offline",
+        "crash-detection",
+        "emergency-sos"
+      ]
     }
   ]
 }

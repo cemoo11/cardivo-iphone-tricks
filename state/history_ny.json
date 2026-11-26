@@ -702,6 +702,48 @@
         "app-library",
         "home-search"
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "post": 1,
+      "theme": "mixed",
+      "tips": [
+        "live-voicemail",
+        "universal-clipboard",
+        "precise-location",
+        "back-tap",
+        "silence-callers",
+        "math-notes",
+        "drag-apps",
+        "led-flash"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "post": 2,
+      "theme": "mixed",
+      "tips": [
+        "hide-distracting",
+        "lock-screen",
+        "focus-modes",
+        "tap-top",
+        "share-wifi",
+        "hide-my-email"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "post": 3,
+      "theme": "mixed",
+      "tips": [
+        "stolen-device",
+        "hidden-album",
+        "passwords-app",
+        "translate",
+        "offline-maps",
+        "volume-shutter",
+        "mirror-front"
+      ]
     }
   ]
 }

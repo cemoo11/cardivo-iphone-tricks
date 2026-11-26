@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-27",
+  "account": "ny",
+  "post": 2,
+  "theme": "mixed",
+  "tips": [
+    "hide-distracting",
+    "lock-screen",
+    "focus-modes",
+    "tap-top",
+    "share-wifi",
+    "hide-my-email"
+  ],
+  "slides": 8,
+  "title": "6 iPhone features your NYC friends don't know",
+  "caption": "Try these on the train today 🚇\nSwipe through before your stop.\n\nMore hidden iPhone tricks:\n• Recover deleted photos from Recently Deleted\n• Convert currency right inside the Calculator\n• Tap the top of the screen to jump back to the top\n• Share your Wi-Fi password by holding iPhones close\n• Hold the space bar to turn your keyboard into a trackpad\n• Make the camera flash blink for notifications\n\nHow to download Cardivo on iPhone:\n1. Go to the App Store\n2. Search for \"Cardivo\"\n3. Hit Get — free download\n\n#manhattan #nyc #iphonetricks #iphone #newyorkcity #ios26 #iphonetips #cardivo #iphonehacks",
+  "slot_et": "2026-11-27T12:30:00-05:00",
+  "due_at_utc": "2026-11-27T17:30:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-2/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-2/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-2/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-2/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-2/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-2/06.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-2/07.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-27/ny-post-2/08.jpg"
+  ],
+  "buffer_post_id": null
+}
