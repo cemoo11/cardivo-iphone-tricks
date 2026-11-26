@@ -309,6 +309,71 @@
         "lock-apps",
         "tap-top"
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "post": 1,
+      "theme": "battery",
+      "tips": [
+        "battery-percent",
+        "low-power",
+        "bg-refresh",
+        "charge-limit"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "post": 2,
+      "theme": "safety",
+      "tips": [
+        "crash-detection",
+        "emergency-sos",
+        "medical-id"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "post": 3,
+      "theme": "keyboard",
+      "tips": [
+        "trackpad",
+        "calc-delete",
+        "haptic-keyboard",
+        "three-finger-undo"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "post": 1,
+      "theme": "keyboard",
+      "tips": [
+        "haptic-keyboard",
+        "shake-undo",
+        "trackpad",
+        "one-hand-keyboard",
+        "double-space"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "post": 2,
+      "theme": "productivity",
+      "tips": [
+        "math-notes",
+        "unit-convert",
+        "translate",
+        "hide-distracting"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "post": 3,
+      "theme": "health",
+      "tips": [
+        "screen-distance",
+        "medications",
+        "loud-audio"
+      ]
     }
   ]
 }
