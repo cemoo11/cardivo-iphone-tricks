@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-28",
+  "account": "main",
+  "post": 3,
+  "theme": "battery",
+  "tips": [
+    "auto-lock",
+    "battery-health"
+  ],
+  "slides": 4,
+  "title": "2 underrated iPhone battery features",
+  "caption": "Little-known iPhone tricks that save you time ⏱️\nSwipe through and save it for later.\n\nMore things your iPhone can do:\n• Merge duplicate photos to free up storage\n• Show your battery percentage in the status bar\n• Use Text Replacement to type your email in two keystrokes\n• Make the camera flash blink for notifications\n\nDownload Cardivo:\n1. Go to the App Store\n2. Search for \"Cardivo\"\n3. Hit Get — free download\n\n#iphonetips #hiddenfeatures #iphonetricks #cardivo #learnontiktok #iphonehacks #ios",
+  "slot_et": "2026-11-28T17:00:00-05:00",
+  "due_at_utc": "2026-11-28T22:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-28/post-3/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-28/post-3/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-28/post-3/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-28/post-3/04.jpg"
+  ],
+  "buffer_post_id": null
+}

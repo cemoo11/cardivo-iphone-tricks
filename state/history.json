@@ -752,6 +752,36 @@
         "crash-detection",
         "emergency-sos"
       ]
+    },
+    {
+      "date": "2026-11-28",
+      "post": 1,
+      "theme": "settings",
+      "tips": [
+        "tap-top",
+        "led-flash",
+        "home-search",
+        "control-center"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "post": 2,
+      "theme": "productivity",
+      "tips": [
+        "shortcuts-automation",
+        "unit-convert",
+        "universal-clipboard"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "post": 3,
+      "theme": "battery",
+      "tips": [
+        "auto-lock",
+        "battery-health"
+      ]
     }
   ]
 }

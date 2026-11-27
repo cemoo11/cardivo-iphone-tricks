@@ -744,6 +744,43 @@
         "volume-shutter",
         "mirror-front"
       ]
+    },
+    {
+      "date": "2026-11-28",
+      "post": 1,
+      "theme": "keyboard",
+      "tips": [
+        "calc-delete",
+        "haptic-keyboard",
+        "dot-com",
+        "text-replacement",
+        "shake-undo"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "post": 2,
+      "theme": "messages",
+      "tips": [
+        "recently-deleted",
+        "duplicates",
+        "lift-subject",
+        "pin-chats",
+        "check-in"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "post": 3,
+      "theme": "mixed",
+      "tips": [
+        "scan-docs",
+        "visual-lookup",
+        "one-hand-keyboard",
+        "quicktake",
+        "volume-shutter",
+        "burst"
+      ]
     }
   ]
 }
