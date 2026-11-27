@@ -374,6 +374,37 @@
         "medications",
         "loud-audio"
       ]
+    },
+    {
+      "date": "2026-11-28",
+      "post": 1,
+      "theme": "settings",
+      "tips": [
+        "home-search",
+        "action-button"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "post": 2,
+      "theme": "privacy",
+      "tips": [
+        "privacy-report",
+        "passwords-app",
+        "stolen-device",
+        "hidden-album",
+        "safety-check"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "post": 3,
+      "theme": "messages",
+      "tips": [
+        "send-later",
+        "recently-deleted",
+        "duplicates"
+      ]
     }
   ]
 }
