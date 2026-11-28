@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-29",
+  "account": "main",
+  "post": 1,
+  "theme": "productivity",
+  "tips": [
+    "math-notes",
+    "live-voicemail",
+    "shortcuts-automation"
+  ],
+  "slides": 5,
+  "title": "3 iPhone productivity hacks nobody told you about",
+  "caption": "iPhone settings you need to change right now ⚙️\nSwipe through and save it for later.\n\nMore things your iPhone can do:\n• Scan documents straight into Notes\n• Hold the period key in Safari for .com, .net and .org\n• Silence calls from unknown numbers\n• Merge duplicate photos to free up storage\n• Shake your iPhone to undo typing\n\nWant Cardivo? Here's how 👇\n1. Open App Store\n2. Search \"Cardivo app\"\n3. Tap the blue Get button\n\n#iphonesettings #cardivo #fyp #iphone17 #iphonetricks #appletips #iphonehacks #iphonetips",
+  "slot_et": "2026-11-29T09:00:00-05:00",
+  "due_at_utc": "2026-11-29T14:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-29/post-1/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-29/post-1/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-29/post-1/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-29/post-1/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-29/post-1/05.jpg"
+  ],
+  "buffer_post_id": null
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-29",
+  "account": "main",
+  "post": 3,
+  "theme": "keyboard",
+  "tips": [
+    "double-space",
+    "shake-undo",
+    "calc-delete",
+    "haptic-keyboard"
+  ],
+  "slides": 6,
+  "title": "4 hidden iPhone keyboard features you're not using",
+  "caption": "iPhone settings you need to change right now ⚙️\nFollow for a new iPhone trick every day.\n\nMore things your iPhone can do:\n• Shake your iPhone to undo typing\n• Have Safari read any article out loud\n• Lock any app with Face ID by holding its icon\n• Move many apps at once by tapping them while dragging\n• Make the camera flash blink for notifications\n\nDownload Cardivo:\n1. Go to the App Store\n2. Search for \"Cardivo\"\n3. Hit Get — free download\n\n#techhacks #iphonetips #iphonetricks #cardivo #iphone17 #foryou #iphonehacks",
+  "slot_et": "2026-11-29T19:00:00-05:00",
+  "due_at_utc": "2026-11-30T00:00:00.000Z",
+  "images": [
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-29/post-3/01.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-29/post-3/02.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-29/post-3/03.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-29/post-3/04.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-29/post-3/05.jpg",
+    "https://raw.githubusercontent.com/cemoo11/cardivo-iphone-tricks/main/posts/2026-11-29/post-3/06.jpg"
+  ],
+  "buffer_post_id": null
+}

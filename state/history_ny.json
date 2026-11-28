@@ -781,6 +781,44 @@
         "volume-shutter",
         "burst"
       ]
+    },
+    {
+      "date": "2026-11-29",
+      "post": 1,
+      "theme": "settings",
+      "tips": [
+        "drag-apps",
+        "led-flash",
+        "action-button",
+        "lock-apps",
+        "reduce-white-point",
+        "control-center"
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "post": 2,
+      "theme": "camera",
+      "tips": [
+        "live-text",
+        "mirror-front",
+        "preserve-settings",
+        "measure",
+        "magnifier"
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "post": 3,
+      "theme": "mixed",
+      "tips": [
+        "app-library",
+        "safety-check",
+        "privacy-report",
+        "hide-my-email",
+        "passwords-app",
+        "precise-location"
+      ]
     }
   ]
 }

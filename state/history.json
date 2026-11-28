@@ -782,6 +782,38 @@
         "auto-lock",
         "battery-health"
       ]
+    },
+    {
+      "date": "2026-11-29",
+      "post": 1,
+      "theme": "productivity",
+      "tips": [
+        "math-notes",
+        "live-voicemail",
+        "shortcuts-automation"
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "post": 2,
+      "theme": "health",
+      "tips": [
+        "motion-cues",
+        "sleep-schedule",
+        "walking-steadiness",
+        "screen-distance"
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "post": 3,
+      "theme": "keyboard",
+      "tips": [
+        "double-space",
+        "shake-undo",
+        "calc-delete",
+        "haptic-keyboard"
+      ]
     }
   ]
 }
