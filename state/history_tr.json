@@ -405,6 +405,39 @@
         "recently-deleted",
         "duplicates"
       ]
+    },
+    {
+      "date": "2026-11-29",
+      "post": 1,
+      "theme": "camera",
+      "tips": [
+        "volume-shutter",
+        "scan-docs",
+        "magnifier",
+        "quicktake"
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "post": 2,
+      "theme": "keyboard",
+      "tips": [
+        "double-space",
+        "shake-undo",
+        "trackpad",
+        "haptic-keyboard",
+        "calc-delete"
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "post": 3,
+      "theme": "health",
+      "tips": [
+        "screen-distance",
+        "walking-steadiness",
+        "loud-audio"
+      ]
     }
   ]
 }
